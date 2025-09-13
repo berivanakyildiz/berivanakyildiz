@@ -1,0 +1,48 @@
+# Hi, I'm Berivan Akyıldız 👋
+
+I'm an **Electronics & Communication Engineering** student, passionate about **IoT, Embedded Systems, and Software Development**.  
+I enjoy building practical projects and exploring new technologies.
+
+---
+
+## 🛠️ Technologies & Tools
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-4B0082?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 My Projects
+
+### IoT and Microcontroller Projects
+- **Line Following Car:** Arduino-based autonomous car that follows a track.  
+- **Obstacle Avoiding Car:** Arduino and sensors detect obstacles and change direction.
+
+### Machine Learning Projects
+- **Obesity Monitoring:** Simple health prediction models based on user data.  
+- **Temperature Prediction:** Predicting future temperature values from sensor data.
+
+### Python Projects
+- **Library Management System:** Add, remove, and list books; available on my GitHub.
+
+### C# Projects
+- **Calculator:** Console and Windows Forms-based calculator application.  
+- **Flight Booking Website:** Basic web application for flight reservations.  
+- **Pacman Game:** Simple Pacman game project.
+
+### Electronics and Circuit Design
+- **Circuit Design:** Analog and digital circuit simulations in Proteus and Multisim.  
+- **Embedded Programming:** Arduino and CCS C microcontroller projects.
+
+---
+
+## 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/berivanakyildiz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berivanakyildiz)
+
+---
