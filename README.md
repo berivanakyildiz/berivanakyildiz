@@ -14,6 +14,9 @@ I enjoy building practical projects and exploring new technologies.
 ![Proteus](https://img.shields.io/badge/Proteus-4B0082?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![LoRa](https://img.shields.io/badge/LoRa-00A1E4?style=for-the-badge&logo=semtech&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 
 ---
